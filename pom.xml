@@ -62,12 +62,6 @@
 </plugin>
 </plugins>
 
-<distributionManagement>
-	<repository>
-		<id>maven-release-repo</id>
-		<url>http://192.168.1.79/maven</url>
-	</repository>
-</distributionManagement>
   </build>
 
 
